@@ -2,4 +2,6 @@
     echo "hello world!";
     $a = 1;
     $a++;
-    var_dump($a);
+    echo 1;
+    echo "你好世界！";
+
